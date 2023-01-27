@@ -405,7 +405,7 @@ section {
 # Akills
 --------------------------------------------------------------*/
 .skills .progress {
-  height: 50px;
+  height: 60px;
   display: block;
   background: none;
 }
@@ -437,11 +437,11 @@ section {
 }
 
 section .containers {
-  background: rgba(177, 169, 169, 0.9);
+  background: rgba(194, 226, 255, 0.9);
   padding: 30px;
 }
 section .containerb {
-  background: rgba(192, 168, 216, 0.9);
+  background: rgba(194, 226, 255, 0.9);
   padding: 30px;
 }
 /*--------------------------------------------------------------
@@ -451,8 +451,8 @@ section .containerb {
   display: flex;
   align-items: center;
   padding: 20px;
-  background: rgba(44, 0, 102, 0.452);
-  transition: ease-in-out 0.8s;
+  background: rgba(194, 226, 255, 0.452);
+  transition: ease-in-out 0.1s;
 }
 
 .interests .icon-box i {
@@ -471,7 +471,7 @@ section .containerb {
 }
 
 .interests .icon-box:hover {
-  background: rgba(255, 255, 255, 0.12);
+  background: rgba(194, 226, 255, 0.12);
 }
 
 /*--------------------------------------------------------------
@@ -550,7 +550,7 @@ section .containerb {
   float: left;
   width: 44px;
   height: 44px;
-  background: #eef7ff;
+  background: rgb(194, 226, 255);
   display: flex;
   justify-content: center;
   align-items: center;
